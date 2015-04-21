@@ -49,7 +49,7 @@ function crack()
 	fi
 }
 
-# Five provided cryptos
+# Some provided cryptos
 
 crack "" 19e27c9b5411608f9a8909c21eee2a61198b124de41f6e8d41ff1f22b3c60e789cd370bf2e2c88ad08643a5769e99264a5659ee34fe4dc03c269bd2af255edcf
 echo "The magic words are squeamish ossifrage">/tmp/correct
